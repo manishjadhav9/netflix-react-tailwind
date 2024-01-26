@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Netflix Clone Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Netflix Clone Logo](https://imgs.search.brave.com/S_FdUC7P0znM-T2KyXpDEqBYQtkugcUs6ZN7c0Gn4-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDUwNjMz/NDIucG5n)
 
-## Available Scripts
+## Table of Contents
+- [Description](#description)
+- [Technologies](#technologies)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-In the project directory, you can run:
+## Description
 
-### `yarn start`
+This project is a Netflix clone built using HTML, JavaScript (ReactJS), Tailwind CSS, and Firebase. The goal of this project is to recreate the Netflix user interface and functionality, providing users with a familiar and enjoyable streaming experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **User Authentication:** Users can sign up, log in, and log out using Firebase Authentication.
+- **Real-time Database:** Firebase Firestore is used to store and retrieve movie data, allowing for real-time updates and seamless streaming.
+- **Responsive Design:** The application is designed to be responsive and accessible across various devices, providing a consistent user experience.
+- **Movie Trailers:** Users can watch movie trailers by clicking on the selected movie.
 
-### `yarn test`
+## Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=flat-square)
+![ReactJS](https://img.shields.io/badge/ReactJS-17-blue?logo=react&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.2.19-blueviolet?logo=tailwind-css&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-9.4.0-yellowgreen?logo=firebase&style=flat-square)
