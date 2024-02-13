@@ -2,11 +2,6 @@
 
 ![Netflix Clone Logo](https://imgs.search.brave.com/S_FdUC7P0znM-T2KyXpDEqBYQtkugcUs6ZN7c0Gn4-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDUwNjMz/NDIucG5n)
 
-## Table of Contents
-- [Description](#description)
-- [Technologies](#technologies)
-- [Features](#features)
-
 ## Description
 
 This project is a Netflix clone built using HTML, JavaScript (ReactJS), Tailwind CSS, and Firebase. The goal of this project is to recreate the Netflix user interface and functionality, providing users with a familiar and enjoyable streaming experience.
